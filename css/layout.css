@@ -1,0 +1,33 @@
+/* CSS Document */
+.wrapper{
+	width:1200px;
+	margin: 0 auto;
+	position:relative;
+		
+}
+
+.card-back{
+	width:150px;
+	position:absolute;
+	height:209px;
+	background:url(../images/card-sprite.png) -300px -836px no-repeat;	
+}
+.card-front{
+	width:150px;
+	height:209px;
+	position:absolute;
+		
+}
+
+.msg{
+	width:150px;
+	height:50px;
+	position:absolute;
+	line-height:50px;
+	text-align:center;
+	background:#999;
+	border:1px solid #333;
+	left:500px;
+	top:250px;
+		
+}
